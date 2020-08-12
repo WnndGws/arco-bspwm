@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # checking if I have the latest files from github
 echo "Checking for newer files online first"
@@ -15,7 +15,7 @@ echo "####################################"
 echo "Write your commit comment!"
 echo "####################################"
 
-read input
+read -r input
 
 # Committing to the local repository with a message containing the time details and commit text
 

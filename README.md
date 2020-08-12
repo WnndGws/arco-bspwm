@@ -1,5 +1,8 @@
 # ArcoLinux BYOI Bspwm desktop
 
+Forked on 2020-08-12
+Heavily edited by WnndGws for own personal use
+
 # Get your code to build your own iso
 
 	git clone https://github.com/arcolinuxb/arco-bspwm
