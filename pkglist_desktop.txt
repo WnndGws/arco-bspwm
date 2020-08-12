@@ -1,0 +1,334 @@
+Name            : alacritty
+Description     : A cross-platform, GPU-accelerated terminal emulator
+Name            : autoconf
+Description     : A GNU tool for automatically configuring source code
+Name            : automake
+Description     : A GNU tool for automatically creating Makefiles
+Name            : base
+Description     : Minimal package set to define a basic Arch Linux installation
+Name            : bat
+Description     : Cat clone with syntax highlighting and git integration
+Name            : bcprov
+Description     : Java cryptography APIs (Bouncy Castle)
+Name            : binutils
+Description     : A set of programs to assemble and manipulate binary and object files
+Name            : bison
+Description     : The GNU general-purpose parser generator
+Name            : bspwm
+Description     : Tiling window manager based on binary space partitioning
+Name            : clyrics
+Description     : An extensible lyrics fetcher, with daemon support for cmus and mocp.
+Name            : cmus
+Description     : Feature-rich ncurses-based music player
+Name            : dash
+Description     : POSIX compliant shell that aims to be as small as possible
+Name            : dashbinsh
+Description     : Relink /bin/sh to dash
+Name            : entr
+Description     : Run arbitrary commands when files change
+Name            : espanso
+Description     : Cross-platform Text Expander written in Rust
+Name            : exa
+Description     : ls replacement
+Name            : fail2ban
+Description     : Bans IPs after too many failed authentication attempts
+Name            : fakeroot
+Description     : Tool for simulating superuser privileges
+Name            : fasd
+Description     : Command-line productivity booster, offers quick access to files and directories
+Name            : fd
+Description     : Simple, fast and user-friendly alternative to find
+Name            : feh
+Description     : Fast and light imlib2-based image viewer
+Name            : ffsend-bin
+Description     : Easily and securely share files from the command line. A Firefox Send client.
+Name            : file
+Description     : File type identification utility
+Name            : find-the-command
+Description     : Advanced command-not-found hook for bash and zsh using the power of pacman
+Name            : findutils
+Description     : GNU utilities to locate files
+Name            : firefox
+Description     : Standalone web browser from mozilla.org
+Name            : flex
+Description     : A tool for generating text-scanning programs
+Name            : fzf
+Description     : Command-line fuzzy finder
+Name            : gawk
+Description     : GNU version of awk
+Name            : gcc
+Description     : The GNU Compiler Collection - C and C++ frontends
+Name            : gettext
+Description     : GNU internationalization library
+Name            : ghostscript
+Description     : An interpreter for the PostScript language
+Name            : git
+Description     : the fast distributed version control system
+Name            : git-crypt
+Description     : Transparent file encryption in Git
+Name            : gnu-free-fonts
+Description     : A free family of scalable outline fonts
+Name            : grep
+Description     : A string search utility
+Name            : groff
+Description     : GNU troff text-formatting system
+Name            : gron
+Description     : Makes JSON greppable
+Name            : gzip
+Description     : GNU compression utility
+Name            : haxor-news
+Description     : A Hacker News command line interface
+Name            : intel-ucode
+Description     : Microcode update files for Intel CPUs
+Name            : ipython
+Description     : An enhanced Interactive Python shell.
+Name            : isync-config-patched
+Description     : IMAP and MailDir mailbox synchronizer - with xdg-compliant config location
+Name            : iwd
+Description     : Internet Wireless Daemon
+Name            : jftui
+Description     : TUI client for Jellyfin based on mpv
+Name            : lemonbar-xft-git
+Description     : A lightweight xcb based bar with ported xft support.
+Name            : libtool
+Description     : A generic library support script
+Name            : linux
+Description     : The Linux kernel and modules
+Name            : linux-firmware
+Description     : Firmware files for Linux
+Name            : lvm2
+Description     : Logical Volume Manager 2 utilities
+Name            : m4
+Description     : The GNU macro processor
+Name            : magic-wormhole
+Description     : Securely transfer data between computers
+Name            : make
+Description     : GNU make utility to maintain groups of programs
+Name            : man-db
+Description     : A utility for reading man pages
+Name            : man-pages
+Description     : Linux man pages
+Name            : massren
+Description     : Easily rename multiple files using your text editor
+Name            : masterpdfeditor-free
+Description     : A complete solution for creation and editing PDF files - Free version without watermark
+Name            : mosh
+Description     : Mobile shell, surviving disconnects with local echo and line editing
+Name            : mpv
+Description     : a free, open source, and cross-platform media player
+Name            : msmtp
+Description     : A mini smtp client
+Name            : ncdu
+Description     : Disk usage analyzer with an ncurses interface
+Name            : neofetch
+Description     : A CLI system information tool written in BASH that supports displaying images.
+Name            : neomutt
+Description     : A version of mutt with added features
+Name            : neovim
+Description     : Fork of Vim aiming to improve user experience, plugins, and GUIs
+Name            : nerd-fonts-cascadia-code
+Description     : Patched Cascadia Code font with extra glyphs
+Name            : newsboat
+Description     : An RSS/Atom feed reader for text terminals
+Name            : ntfs-3g
+Description     : NTFS filesystem driver and utilities
+Name            : openssh
+Description     : Premier connectivity tool for remote login with the SSH protocol
+Name            : p7zip
+Description     : Command-line file archiver with high compression ratio
+Name            : pacman
+Description     : A library-based package manager with dependency support
+Name            : pamixer
+Description     : Pulseaudio command-line mixer like amixer
+Name            : patch
+Description     : A utility to apply patch files to original sources
+Name            : pdftk
+Description     : Command-line tool for working with PDFs
+Name            : picard
+Description     : Official MusicBrainz tagger
+Name            : pikaur
+Description     : AUR helper which asks all questions before installing/building. Inspired by pacaur, yaourt and yay.
+Name            : pkgconf
+Description     : Package compiler and linker metadata toolkit
+Name            : pulseaudio-alsa
+Description     : ALSA Configuration for PulseAudio
+Name            : pulsemixer
+Description     : CLI and curses mixer for pulseaudio
+Name            : python-google-api-python-client
+Description     : Google API Client Library for Python
+Name            : python-networkx
+Description     : Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+Name            : python-nltk
+Description     : Natural language processing in Python
+Name            : python-numpy
+Description     : Scientific tools for Python
+Name            : python-oauth2client
+Description     : A client library for OAuth 2.0
+Name            : python-pillow
+Description     : Python Imaging Library (PIL) fork.
+Name            : python-pylint
+Description     : Analyzes Python code looking for bugs and signs of poor quality
+Name            : python-pynvim
+Description     : Python client for Neovim
+Name            : python-regex
+Description     : Alternative python regular expression module. (python3 version)
+Name            : python-requests
+Description     : Python HTTP for Humans
+Name            : python-requests-html
+Description     : HTML Parsing for Humans
+Name            : reflector
+Description     : A Python 3 module and script to retrieve and filter the latest Pacman mirror list.
+Name            : ripgrep
+Description     : A search tool that combines the usability of ag with the raw speed of grep
+Name            : rmlint
+Description     : Tool to remove duplicates and other lint, being much faster than fdupes
+Name            : rofi
+Description     : A window switcher, application launcher and dmenu replacement
+Name            : rsync
+Description     : A fast and versatile file copying tool for remote and local files
+Name            : rust
+Description     : Systems programming language focused on safety, speed and concurrency
+Name            : scrot
+Description     : Simple command-line screenshot utility for X
+Name            : sed
+Description     : GNU stream editor
+Name            : shellcheck-bin
+Description     : Shell script analysis tool (binary release)
+Name            : signal-desktop
+Description     : Signal Private Messenger for Linux
+Name            : speedread-git
+Description     : A simple terminal-based open source Spritz-alike.
+Name            : sshfs
+Description     : FUSE client based on the SSH File Transfer Protocol
+Name            : starship
+Description     : The cross-shell prompt for astronauts
+Name            : steam-native-runtime
+Description     : Native replacement for the Steam runtime using system libraries
+Name            : stow
+Description     : Manage installation of multiple softwares in the same directory tree
+Name            : sudo
+Description     : Give certain users the ability to run some commands as root
+Name            : sxhkd
+Description     : Simple X hotkey daemon
+Name            : syncthing
+Description     : Open Source Continuous Replication / Cluster Synchronization Thing
+Name            : tealdeer
+Description     : A fast tldr client in Rust.
+Name            : texinfo
+Description     : GNU documentation system for on-line information and printed output
+Name            : texlive-core
+Description     : TeX Live core distribution
+Name            : transmission-cli
+Description     : Fast, easy, and free BitTorrent client (CLI tools, daemon and web client)
+Name            : trash-cli
+Description     : Command line trashcan (recycle bin) interface
+Name            : ttf-cascadia-code
+Description     : A monospaced font by Microsoft that includes programming ligatures
+Name            : tty-solitaire
+Description     : ncurses-based klondike solitaire game
+Name            : udiskie
+Description     : Removable disk automounter using udisks
+Name            : unclutter-xfixes-git
+Description     : unclutter-xfixes is a rewrite of unclutter using the x11-xfixes extension.
+Name            : vim
+Description     : Vi Improved, a highly configurable, improved version of the vi text editor
+Name            : which
+Description     : A utility to show the full path of commands
+Name            : xclip
+Description     : Command line interface to the X11 clipboard
+Name            : xdo
+Description     : Utility for performing actions on windows in X
+Name            : xf86-video-amdgpu
+Description     : X.org amdgpu video driver
+Name            : xorg-bdftopcf
+Description     : Convert X font from Bitmap Distribution Format to Portable Compiled Format
+Name            : xorg-iceauth
+Description     : ICE authority file utility
+Name            : xorg-luit
+Description     : Filter that can be run between an arbitrary application and a UTF-8 terminal emulator
+Name            : xorg-mkfontscale
+Description     : Create an index of scalable font files for X
+Name            : xorg-server
+Description     : Xorg X server
+Name            : xorg-sessreg
+Description     : Register X sessions in system utmp/utmpx databases
+Name            : xorg-setxkbmap
+Description     : Set the keyboard using the X Keyboard Extension
+Name            : xorg-smproxy
+Description     : Allows X applications that do not support X11R6 session management to participate in an X11R6 session
+Name            : xorg-x11perf
+Description     : Simple X server performance benchmarker
+Name            : xorg-xauth
+Description     : X.Org authorization settings program
+Name            : xorg-xbacklight
+Description     : RandR-based backlight control application
+Name            : xorg-xcmsdb
+Description     : Device Color Characterization utility for X Color Management System
+Name            : xorg-xcursorgen
+Description     : Create an X cursor file from PNG images
+Name            : xorg-xdpyinfo
+Description     : Display information utility for X
+Name            : xorg-xdriinfo
+Description     : Query configuration information of DRI drivers
+Name            : xorg-xev
+Description     : Print contents of X events
+Name            : xorg-xgamma
+Description     : Alter a monitor's gamma correction
+Name            : xorg-xhost
+Description     : Server access control program for X
+Name            : xorg-xinit
+Description     : X.Org initialisation program
+Name            : xorg-xinput
+Description     : Small commandline tool to configure devices
+Name            : xorg-xkbcomp
+Description     : X Keyboard description compiler
+Name            : xorg-xkbevd
+Description     : XKB event daemon
+Name            : xorg-xkbutils
+Description     : XKB utility demos
+Name            : xorg-xkill
+Description     : Kill a client by its X resource
+Name            : xorg-xlsatoms
+Description     : List interned atoms defined on server
+Name            : xorg-xlsclients
+Description     : List client applications running on a display
+Name            : xorg-xmodmap
+Description     : Utility for modifying keymaps and button mappings
+Name            : xorg-xpr
+Description     : Print an X window dump from xwd
+Name            : xorg-xprop
+Description     : Property displayer for X
+Name            : xorg-xrandr
+Description     : Primitive command line interface to RandR extension
+Name            : xorg-xrdb
+Description     : X server resource database utility
+Name            : xorg-xrefresh
+Description     : Refresh all or part of an X screen
+Name            : xorg-xset
+Description     : User preference utility for X
+Name            : xorg-xsetroot
+Description     : Classic X utility to set your root window background to a given pattern or color
+Name            : xorg-xvinfo
+Description     : Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
+Name            : xorg-xwd
+Description     : X Window System image dumping utility
+Name            : xorg-xwininfo
+Description     : Command-line utility to print information about windows on an X server
+Name            : xorg-xwud
+Description     : X Window System image undumping utility
+Name            : youtube-dl
+Description     : A small command-line program to download videos from YouTube.com and a few more sites
+Name            : zathura
+Description     : Minimalistic document viewer
+Name            : zathura-pdf-mupdf
+Description     : PDF support for Zathura (MuPDF backend) (Supports PDF, ePub, and OpenXPS)
+Name            : zsh
+Description     : A very advanced and programmable command interpreter (shell) for UNIX
+Name            : zsh-autosuggestions
+Description     : Fish-like autosuggestions for zsh
+Name            : zsh-history-substring-search
+Description     : ZSH port of Fish history search (up arrow)
+Name            : zsh-syntax-highlighting
+Description     : Fish shell like syntax highlighting for Zsh
+Name            : zsh-you-should-use
+Description     : ZSH plugin that reminds you to use existing aliases for commands you just typed
